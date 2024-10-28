@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Vittorio Simonazzi
 - 👀 I’m interested in Pizza
-- 🌱 I’m currently learning C++ and Java
 
 
 
